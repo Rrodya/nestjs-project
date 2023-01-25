@@ -1,0 +1,13 @@
+node_modules/
+deployments/
+public/config.js
+public/config.example.js
+helm/
+dist/
+test/
+helm/
+.git/
+.cache
+.gitignore
+.gitlab-ci.yml
+Dockerfile
